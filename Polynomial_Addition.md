@@ -1,4 +1,10 @@
 ---
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+theme: jekyll-theme-cayman
 layout: post
 title: "Polynomial Addition"
 description: "Using Linked List"
