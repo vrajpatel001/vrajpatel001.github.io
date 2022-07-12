@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello There!
-description: Find below the links of blogs
+title: "Hello There!"
+description: "Find below the links of blogs"
 ---
 
 ### Index of Blogs

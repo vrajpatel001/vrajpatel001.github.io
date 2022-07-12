@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Polynomial Addition
-description: Using Linked List
+title: "Polynomial Addition"
+description: "Using Linked List"
 ---
 
 ### [Polynomial Addition](https://practice.geeksforgeeks.org/problems/polynomial-addition/1)
