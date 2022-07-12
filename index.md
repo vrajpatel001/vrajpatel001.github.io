@@ -5,7 +5,7 @@ relative_links:
   enabled: true
   collections: true
 theme: jekyll-theme-cayman
-layout: post
+layout: page
 title: "Hello There!"
 description: "Find below the links of blogs"
 ---
