@@ -5,3 +5,4 @@ relative_links:
   collections: true
 include:
   - Polynomial_Addition.md
+theme: jekyll-theme-cayman
