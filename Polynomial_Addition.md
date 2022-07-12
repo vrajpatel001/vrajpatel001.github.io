@@ -32,7 +32,7 @@ Constraints:
 ```
 
 ### C++ Implementation
-```C++
+```c++
 /* Link list Node */
 struct Node
 {
