@@ -1,7 +1,6 @@
 ---
 title: "Polynomial Addition"
 description: "Using Linked List"
-theme: jekyll-theme-cayman
 ---
 
 ### [Polynomial Addition](https://practice.geeksforgeeks.org/problems/polynomial-addition/1)

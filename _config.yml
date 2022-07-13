@@ -6,3 +6,4 @@ relative_links:
 include:
   - index.md
   - Polynomial_Addition.md
+theme: jekyll-theme-cayman
