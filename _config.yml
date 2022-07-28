@@ -6,5 +6,9 @@ relative_links:
 include:
   - index.md
   - Polynomial_Addition.md
+  - Intern_ASIC.md
+  - OpenROAD_Setup.md
+  - Zero_Slack.md
+  - Kernighan_Lin.md
   - https://github.com/vrajpatel001/vrajpatel001/blob/main/README.md
 theme: jekyll-theme-cayman

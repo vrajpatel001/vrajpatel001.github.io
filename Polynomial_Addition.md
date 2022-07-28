@@ -28,6 +28,7 @@ Output:
 Explanation: Since, x3 has two different coefficients as 3 and 1. Adding them up will lead to 4x3. Also, x2 has two coefficients as 4 and 2. So, adding them up will give 6x2.
 ```
 
+#### Given
 ```
 Expected Time Complexity: O(N+M)
 Expected Auxiliary Space: O(1)

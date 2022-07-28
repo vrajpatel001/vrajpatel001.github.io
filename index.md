@@ -1,5 +1,5 @@
 ---
-title: "Hello There!, I'm Vraj Patel!"
+title: "Hello There, I'm Vraj Patel!"
 description: "I'm a programming enthusiast from India."
 ---
 
@@ -42,4 +42,5 @@ description: "I'm a programming enthusiast from India."
 
 ### Index of Blogs
 
-1. [Polynomial Addition](./Polynomial_Addition.md)
+1. [ASIC Domain Internship](./Intern_ASIC.md)
+2. [Polynomial Addition](./Polynomial_Addition.md)
