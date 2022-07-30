@@ -42,5 +42,5 @@ description: "I'm a programming enthusiast from India."
 
 ### Index of Blogs
 
-1. [ASIC Domain Internship](./Intern_ASIC.md)
-2. [Polynomial Addition](./Polynomial_Addition.md)
+1. [ASIC Domain Internship](./ASIC_Intern/Intern_ASIC.md)
+2. [Polynomial Addition](./Practise_DSA_CP/Polynomial_Addition.md)
